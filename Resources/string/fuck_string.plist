@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>data</key>
+    <dict>
+        <key>max</key>
+	<string>最高分</string>
+        <key>start</key>
+	<string>开始游戏</string>
+	<key>end</key>
+	<string>结束游戏</string>
+	<key>max_score</key>
+	<string>最高分:</string>
+	<key>you_score</key>
+	<string>您的分数:</string>
+	<key>rank</key>
+	<string>排行榜</string>
+	<key>play_again</key>
+	<string>再来一次</string>
+	<key>look_rank</key>
+	<string>查看排行榜</string>
+	<key>ranking</key>
+	<string>第%d名：%d分</string>
+	<key>back_str</key>
+	<string>←</string>
+	<key>cocos2d.x.display_fps</key>
+        <true/>
+        
+	<key>cocos2d.x.gl.projection</key>
+        <string>3d</string>
+        
+	<key>cocos2d.x.texture.pixel_format_for_png</key>
+        <string>rgba8888</string>
+        
+	<key>cocos2d.x.texture.pvrv2_has_alpha_premultiplied</key>
+        <false/>
+    </dict>
+    <key>metadata</key>
+    <dict>
+        <key>format</key>
+        <integer>1</integer>
+    </dict>
+</dict>
+</plist>
